@@ -1,21 +1,21 @@
 {
   "modpack": {
     "nombre": "version de testeo",
-    "version": "v0.1.1",
-    "opciones": "bases",
+    "version": "v0.0.0",
+    "opciones": "tutorial",
     "zip": "https://github.com/457leito/archivos-leito457/releases/download/v1.0.0/servidor_mods.zip"
   },
   "forge": {
     "minecraft": "1.20.1",
-    "version": "47.4.0"
+    "version": "47.4.10"
   },
   "fondo": {
     "video": "https://github.com/457leito/archivos-leito457/releases/download/fondos/fondo_base.webm",
     "imagen": ""
   },
   "noticia": {
-    "titulo": "PROBANDO ANIMACIONES",
-    "texto": ""
+    "titulo": "TESTEO DE MODPACK",
+    "texto": "wawawa"
   },
   "servidor": "",
   "enlaces": {
