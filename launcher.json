@@ -1,7 +1,7 @@
 {
   "modpack": {
     "nombre": "version de testeo",
-    "version": "v0.0.0",
+    "version": "v0.1.0",
     "opciones": "tutorial",
     "zip": "https://github.com/457leito/archivos-leito457/releases/download/v1.0.0/servidor_mods.zip"
   },
